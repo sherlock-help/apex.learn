@@ -1,0 +1,8 @@
+{
+  "name": "bar",
+  "description": "Node.js example function",
+  "runtime": "nodejs4.3",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::293503197324:role/lambda"
+}
